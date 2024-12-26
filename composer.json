@@ -1,6 +1,6 @@
 {
   "name": "moonlydays/php-binary-stream",
-  "description": "Le stuff",
+  "description": "A simple PHP package that provides binary file reader and writer.",
   "type": "library",
   "require": {
     "php": "^8.2"
